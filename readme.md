@@ -13,8 +13,7 @@ this is normal text
 _this is italic text_
 
 ![Smile](abdi.jpg)
-| col1 | col2 |
-|------|------|
-|Rows|Rows|
-
+|Col1|Col2|
+|----|----|
+|Rows1|Rows2|
 `forEach`
